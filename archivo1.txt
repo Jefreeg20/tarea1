@@ -1,0 +1,16 @@
+
+
+ 
+Diferencia clave - Git vs Github
+ 
+El sistema de control de versiones es un software que ayuda a los 
+desarrolladores de software a trabajar en colaboración y a mantener un historial completo de su trabajo. 
+Puede almacenar cambios de archivos y modificaciones del código fuente. Cada vez que el usuario cambia 
+el proyecto, el sistema de control de versiones toma el estado del proyecto y lo guarda. Estos diferentes estados 
+guardados del proyecto se conocen como versiones. Por ejemplo, si el programador está construyendo un sitio web, 
+se almacena como versión 1. Posteriormente, si el programador agrega otra página a ese sitio web, esos cambios se guardan
+ como versión 2. Asimismo, los cambios se guardan como versiones en los sistemas de control de versiones. Git y Github son 
+ dos términos asociados con el control de versiones. los diferencia clave entre Git y Github es que Git es un sistema de 
+ control de versiones de código abierto y Github es un servicio de alojamiento para el repositorio de Git. Este artículo 
+ analiza la diferencia entre Git y Github.
+
