@@ -4,3 +4,26 @@ un vocablo latino. Un repositorio es un espacio que se utiliza para almacenar di
 .. En este sentido, actualmente se suele hacer 
 referencia a las bases de datos digitales y 
 a diversos sistemas informáticos como repositorios.
+
+Aparte de GitHub, Qué otras aplicaciones en la nube utilizamos para subir nuestros repositorios?
+Bitbucket se trata de otra plataforma muy popular en la que individuos y organizaciones tienden a almacenar sus
+ repositorios basados en código libre. Permite tener repositorios públicos, como así también privados ilimitados,
+  lo cual atrae la atención de los desarrolladores que acostumbran a necesitar espacio de almacenamiento para almacenar
+   sus archivos en la nube. Una de las funciones más destacadas de Bitbucket es 
+el hecho de permitir a los usuarios intercambiar o enviar achivos a otros usuarios a través de la misma plataforma.
+
+SourceForge es otra reconocida página web en el que desarrolladores acostumbran a publicar sus proyectos basados en diferentes plataformas y compatibles con los más variados sistemas operativos, como Linux, Windows y Mac. Una de las particularidades de SourceForge es que permite únicamente crear proyectos de código abierto con 
+nombre único, por lo que deberemos ser originales al momento de publicar nuestras creaciones.
+
+GitLab es una página web similar, aunque en este caso destaca la posibilidad de permitirle a sus usuarios 
+instalar esta plataforma en sus servidores particulares, lo cual pegit rmite no tan solo que el usuario pueda asociar un
+ dominio personal a su cuenta de GitLab, sino que también puede asociar un servidor web propio, lo cual le permitirá
+  gozar de mayor seguridad y privacidad en los contenidos. GitLab permite a los usuarios tener a su alcance la 
+posibilidad de almacenar repositorios públicos y privados de manera ilimitada y de forma completamente gratuita.
+
+
+ CodePlex, el cual nos permite crear proyectos e incluso tener nuestro propio sitio con subdominio (usuario.codeplex.com).
+
+Para publicar proyectos necesitaremos hacerlo con títulos únicos, ya que al igual que SourceForge, CodePlex no nos permite
+ realizar publicaciones con el mismo nombre para buscar.
+ 
